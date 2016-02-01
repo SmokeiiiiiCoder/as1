@@ -24,6 +24,30 @@
         ]
     },
     {
+        "outputFile": "/Users/runqiwang/Desktop/master/as1/src/app/build/intermediates/res/merged/debug/values-ldltr-v21/values-ldltr-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 112,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "/Users/runqiwang/Desktop/master/as1/src/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 240,
+                        "endColumn": 112,
+                        "endOffset": 348
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "/Users/runqiwang/Desktop/projects/as1/FuelTrack/C:\\Users\\runqiwang\\Desktop\\projects\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\values-ldltr-v21\\values-ldltr-v21.xml",
         "map": [
             {

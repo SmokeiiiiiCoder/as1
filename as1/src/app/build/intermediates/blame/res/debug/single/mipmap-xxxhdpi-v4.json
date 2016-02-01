@@ -12,6 +12,10 @@
         "source": "/Users/runqiwang/Desktop/projects/as1/FuelTrack/C:\\Users\\runqi\\Desktop\\FuelTrack\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
+        "merged": "/Users/runqiwang/Desktop/master/as1/src/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi-v4/ic_launcher.png",
+        "source": "/Users/runqiwang/Desktop/master/as1/src/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
         "merged": "/Users/runqiwang/Desktop/projects/as1/FuelTrack/C:\\Users\\runqiwang\\Desktop\\projects\\FuelTrack\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcher.png",
         "source": "/Users/runqiwang/Desktop/projects/as1/FuelTrack/C:\\Users\\runqiwang\\Desktop\\projects\\FuelTrack\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     }

@@ -8,6 +8,10 @@
         "source": "/Users/runqiwang/Desktop/projects/as1/FuelTrack/C:\\Users\\runqi\\Desktop\\FuelTrack\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-v23\\abc_control_background_material.xml"
     },
     {
+        "merged": "/Users/runqiwang/Desktop/master/as1/src/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
+        "source": "/Users/runqiwang/Desktop/master/as1/src/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-v23/abc_control_background_material.xml"
+    },
+    {
         "merged": "/Users/runqiwang/Desktop/as1/FuelTrack/app/build/intermediates/res/merged/debug/drawable-v23/abc_control_background_material.xml",
         "source": "/Users/runqiwang/Desktop/as1/FuelTrack/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable-v23/abc_control_background_material.xml"
     },

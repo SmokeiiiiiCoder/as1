@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/runqiwang/Desktop/as1/FuelTrack/app/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/runqiwang/Desktop/as1/FuelTrack/app/src/debug/jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="/Users/runqiwang/Desktop/master/as1/src/app/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/runqiwang/Desktop/master/as1/src/app/src/debug/jniLibs"/></dataSet></merger>
