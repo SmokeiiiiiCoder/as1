@@ -1,0 +1,19 @@
+TASK com.example.runqiwang.fueltrack id=17
+  ACTIVITY com.example.runqiwang.fueltrack/.MainActivity b1ca43a0 pid=2469
+    Local Activity b1a4d2f8 State:
+      mResumed=true mStopped=false mFinished=false
+      mLoadersStarted=true
+      mChangingConfigurations=false
+      mCurrentConfig={1.0 310mcc260mnc en_US ldltr sw360dp w360dp h567dp 480dpi nrml port finger qwerty/v/v -nav/h s.6}
+    FragmentManager misc state:
+      mActivity=com.example.runqiwang.fueltrack.MainActivity@b1a4d2f8
+      mContainer=android.app.Activity$1@b1a4d460
+      mCurState=5 mStateSaved=false mDestroyed=false
+    View Hierarchy:
+      com.android.internal.policy.impl.PhoneWindow$DecorView{b1a4e370 V.E..... R....... 0,0-1080,1776}
+        android.widget.LinearLayout{b1a4f3f0 V.E..... ........ 0,0-1080,1776}
+          android.view.ViewStub{b1a522c0 G.E..... ......I. 0,0-0,0 #1020338}
+          android.widget.FrameLayout{b1a526f8 V.ED.... ........ 0,75-1080,1776 #1020002 android:id/content}
+            android.widget.RelativeLayout{b1a56f60 V.E..... ........ 0,0-1080,1701}
+              android.widget.ListView{b1a57628 V.ED.VC. ........ 48,48-1032,1509 #7f0c0050 app:id/listView}
+              android.widget.Button{b1a3d1e8 VFED..C. ........ 48,1509-1032,1653 #7f0c0051 app:id/main_add}
